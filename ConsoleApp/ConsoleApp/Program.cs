@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("My first .Net Core Console Application!!!");
         }
     }
 }
