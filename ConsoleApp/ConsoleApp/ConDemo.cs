@@ -23,7 +23,10 @@ namespace ConsoleApp
         public static void Main()
         {
             ConDemo demo = new ConDemo("Hello .Net Core Developer");
-            
+            MathOperation obj = new MathOperation();
+            obj.PrePostincreament();
         }
+
+
     }
 }

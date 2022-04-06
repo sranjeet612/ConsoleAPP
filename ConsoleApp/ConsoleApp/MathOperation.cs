@@ -33,5 +33,26 @@ namespace ConsoleApp
             return x % y;
         }
 
+        public void PrePostincreament()
+        {
+            int x = 5, y =0;
+            y = x++;
+            Console.WriteLine($"Value of Y:{y}, and X:{x} using post increment operator");
+            y = 0; x=5;
+            y = ++x;
+            Console.WriteLine($"Values of Y:{y} and X:{x} using preIncreament operator");
+        }
+
     }
 }
+
+
+
+
+
+
+
+
+
+
+

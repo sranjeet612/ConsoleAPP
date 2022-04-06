@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "28eb635b-30da-4d00-a509-0d4e3c828b3b": {
+      "ProjectGuid": "28eb635b-30da-4d00-a509-0d4e3c828b3b",
+      "DisplayName": "NUnitTestproject",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
