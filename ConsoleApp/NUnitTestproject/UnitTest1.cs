@@ -17,5 +17,13 @@ namespace NUnitTestproject
             int result = obj.Add(10, 30);
             Assert.AreEqual(40, result);  
         }
+
+        [Test]
+        public void Test2()
+        {
+            MathOperation obj=new MathOperation();
+            int result=obj.Sub(100, 30);
+            Assert.AreEqual(70,result);
+        }
     }
 }
